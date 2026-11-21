@@ -1,0 +1,16 @@
+PLAN DE EJEMPLO - generado mediante busqueda BFS sobre domain.pddl y problem.pddl
+
+01. (diagnosticar portal-inscripciones)
+02. (aislar portal-inscripciones)
+03. (validar-respaldo copia-noviembre portal-inscripciones)
+04. (restaurar-datos copia-noviembre portal-inscripciones)
+05. (verificar-integridad portal-inscripciones)
+06. (instalar-parche parche-estable portal-inscripciones)
+07. (ejecutar-pruebas portal-inscripciones)
+08. (reconectar portal-inscripciones)
+09. (levantar-servicio portal-inscripciones)
+10. (activar-monitoreo portal-inscripciones)
+11. (cerrar-incidente portal-inscripciones)
+
+Verificacion: todas las precondiciones se satisfacen en su paso; meta final alcanzada.
+OJO que este es uno de los posibles planes que el planificado web PDDL Editor puede encontrar
